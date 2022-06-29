@@ -1,4 +1,4 @@
-# ui_design
+# algoriza 1st task
 
 A new Flutter project.
 
